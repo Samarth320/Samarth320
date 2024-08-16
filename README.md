@@ -1,5 +1,11 @@
 ![Hello World !! (1)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samarth320/Samarth320/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samarth320/Samarth320/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Samarth320/Samarth320/output/github-contribution-grid-snake.svg" width=100%>
+</picture>
+
 <h1 align="center">Hi 👋, I'm Samarth Bagul</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 
